@@ -1,3 +1,8 @@
 shema thomas
 THE Shema Thomas
+<<<<<<< HEAD
 Now it is raunaq :)
+=======
+Now it is raunaq :). :D
+hey peeps
+>>>>>>> raunaq06
